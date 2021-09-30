@@ -1,0 +1,16 @@
+{
+  "name": "2021-09-30",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "Server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
